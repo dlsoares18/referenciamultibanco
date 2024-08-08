@@ -1,0 +1,15 @@
+{
+  "name": "referenciamultibanco",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Daniel Soares",
+  "license": "ISC",
+  "description": "Gerador de Referencia Multibanco",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
